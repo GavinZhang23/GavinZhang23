@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GavinZhang23
-- 👀 I’m interested in backend and frontend coding!
+- 👀 I’m a full stack developer!
 - 🌱 I’m currently learning frontend and unreal engine!
 - 💞️ I’m looking to collaborate on any fun project!
 - 📫 How to reach me: via email!
