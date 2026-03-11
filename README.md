@@ -39,9 +39,11 @@ I love exploring **different programming languages** and technologies — there'
 
 ### 🎮 When I'm Not Coding
 
-🎮 Gaming — League of Legends & single-player adventures
-🎸 Music — Rock lover & guitar player
-🏀 Basketball
+🎮 Gaming — League of Legends & single-player adventures!
+
+🎸 Music — Rock lover & guitar player!
+
+🏀 I enjoy basketball a lot! Let's play!
 
 ---
 
