@@ -27,11 +27,11 @@ I love exploring **different programming languages** and technologies — there'
 
 ### 🛠️ Tech Stack
 
-**Languages**: Python, JavaScript, Java, C++
+**Languages**: Python, JavaScript, Java, C++, Rust
 
 **Frontend**: React, HTML5, CSS3
 
-**Backend & Tools**: Node.js, Docker, Git
+**Backend & Tools**: Flask, Django, Node.js, Docker, Git
 
 **Other**: Unreal Engine
 
@@ -51,5 +51,6 @@ I love exploring **different programming languages** and technologies — there'
 
 ---
 
-**💬 Let's connect!** 
-[LinkedIn]({https://www.linkedin.com/in/xiuqi-zhang-gavin})
+### 📫 Let's Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/xiuqi-zhang-gavin)
