@@ -51,13 +51,5 @@ I love exploring **different programming languages** and technologies — there'
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GavinZhang23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
----
-
 **💬 Let's connect!** 
 [LinkedIn]({https://www.linkedin.com/in/xiuqi-zhang-gavin})
